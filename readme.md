@@ -1,0 +1,1 @@
+This is a simple TCP listener and corresponding client to send messages to another computer on the LAN network. Always fun to install on the computer of a colleague! :)
